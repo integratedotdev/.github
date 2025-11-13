@@ -1,12 +1,7 @@
-## Hi there 👋
+## Integrate
 
-<!--
+Connect AI agents to production services without shipping new backends.
 
-**Here are some ideas to get you started:**
+- [SDK](https://github.com/integratedotdev/typescript-sdk): Integrate SDK gives your AI systems a secure, typed gateway into third-party APIs. Configure plugins, stream MCP tool calls, and instrument everything with confidence.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [DOCS](https://github.com/integratedotdev/typescript-sdk/docs): The source to the Integrate sdk documentation that is live [here](https://integrate.dev/docs).
